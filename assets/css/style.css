@@ -556,15 +556,14 @@ text-transform:uppercase;
   
 }
 .copyright a .L::after{
-  content-visibility: hidden;
+  content-visibility:hidden;
 
   content:"OKESH";
   transition: 500ms linear;
  
 }
 .copyright a .C::after{
-  content-visibility: hidden;
-  contain-intrinsic-inline-size: 2px;
+  content-visibility:hidden;
   
   content:"HARAN";
   transition: 500ms linear;
